@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1782490239 source:c:\users\user\downloads\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\main.cpp
+	<iostream>
+	"modulo1_captura.h"
+
+1782489974 source:c:\users\user\downloads\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo1_captura.cpp
+	"modulo1_captura.h"
+	<iostream>
+	<string>
+
+1782487909 c:\users\user\downloads\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo1_captura.h
+	<iostream>
+	<string>
+
