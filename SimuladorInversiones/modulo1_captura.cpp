@@ -30,6 +30,7 @@ double IngresarCapital() {
         valido = true;
     }
 
+
     return capital;
 }
 

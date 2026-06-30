@@ -12,3 +12,34 @@
 	<iostream>
 	<string>
 
+1782855802 source:c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\main.cpp
+	<iostream>
+	"modulo1_captura.h"
+	"modulo2_calculos.h"
+	"modulo3_reporte.h"
+
+1782848748 c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo1_captura.h
+	<iostream>
+	<string>
+
+1782853705 c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo2_calculos.h
+
+1782850500 source:c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo1_captura.cpp
+	"modulo1_captura.h"
+	<iostream>
+	<string>
+
+1782848748 source:c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo2_calculos.cpp
+	"modulo2_calculos.h"
+	<cmath>
+	<iostream>
+
+1782855695 source:c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo3_reporte.cpp
+	"modulo1_captura.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+
+1782855695 c:\users\almendr4\documents\utn - programacion\programacion_4\parcial2_cienciadatos_-inversiones_financieras\simuladorinversiones\modulo3_reporte.h
+

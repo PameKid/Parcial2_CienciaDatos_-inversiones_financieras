@@ -35,6 +35,10 @@
 		<Unit filename="main.cpp" />
 		<Unit filename="modulo1_captura.cpp" />
 		<Unit filename="modulo1_captura.h" />
+		<Unit filename="modulo2_calculos.cpp" />
+		<Unit filename="modulo2_calculos.h" />
+		<Unit filename="modulo3_reporte.cpp" />
+		<Unit filename="modulo3_reporte.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
